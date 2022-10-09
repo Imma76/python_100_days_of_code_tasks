@@ -12,6 +12,7 @@ if direction == 'left':
             print('Eaten by beasts game over')
         elif direction3 == 'yellow':
             print('you win!')
+
         else:
             print('Game Over!')
     else:
